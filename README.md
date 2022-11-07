@@ -1,5 +1,5 @@
 # DBMS-cheatsheet
-<hr>
+
 ## 1) CREATE TABLE :
 ```sql
 CREATE TABLE EMP(
