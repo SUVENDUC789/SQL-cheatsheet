@@ -1,4 +1,4 @@
-# SQL-cheatsheet
+# SQL-cheatsheet-Oracle 10g
 
 ## 1) CREATE TABLE :
 ```sql
