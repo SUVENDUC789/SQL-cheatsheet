@@ -1,4 +1,4 @@
-# DBMS-cheatsheet
+# SQL-cheatsheet
 
 ## 1) CREATE TABLE :
 ```sql
