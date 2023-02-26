@@ -1,5 +1,7 @@
 # SQL-cheatsheet-Oracle 10g
 
+## Username = system and Password = admin
+
 ## 1) CREATE TABLE :
 ```sql
 CREATE TABLE EMP(
