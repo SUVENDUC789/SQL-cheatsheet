@@ -2,6 +2,8 @@
 
 ## Username = system and Password = admin
 
+## user Input = SELECT * FROM LOGIN WHERE USERNAME='&USER' AND PASSWORDU='&PASS';
+
 ## 1) CREATE TABLE :
 ```sql
 CREATE TABLE EMP(
